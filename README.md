@@ -2,7 +2,7 @@
 
 ## Task:
 
-Remove the useState usage and refactor it to handle all of the components state through a useReducer hook
+Remove the useState usage and refactor it to handle all of the components state through a useReducer hook.
 
 The state should include:
 
